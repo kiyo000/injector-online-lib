@@ -103,9 +103,6 @@ function logs.OnCheckedChangeListener()--CLEAR LOGS
   end
 end
 
-
-import "main69"
-
 function wall.OnCheckedChangeListener()--Wallhack
   if wall.checked then
     HexPatches.MemoryPatch("libunity.so", 0x91C3010, "h 1F 20 03 D5 E0 03 13 AA", 32)
