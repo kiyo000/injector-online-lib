@@ -1,5 +1,15 @@
+toast("✅ Payload loaded successfully!")
 
-toast("✅ Online payload loaded")
+-- Example: add a button dynamically
+local btn = Button(activity)
+btn.setText("Injected Button")
+btn.onClick = function()
+  toast("Button inside payload clicked!")
+end
+
+if parentLayout then
+  parentLayout.addView(btn)
+end
 
 function floatmenu1.OnCheckedChangeListener()--GARENA LOGO BYPASS
   if floatmenu1.checked then
