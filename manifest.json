@@ -1,7 +1,5 @@
 {
-  "payload_url": "https://raw.githubusercontent.com/kiyo000/injector-online-lib/main/payload.lua",
-  "sha256": "558fa85b94d8343a1af1ec9923909dc45ce4ee77adea7c1ab8bc68af98dabb5b",
-  "type": "lua",
-  "version": "1.0.0",
-  "changelog": "Initial online injector release"
+  "payload_url": "https://raw.githubusercontent.com/kiyo000/injector-online-lib/refs/heads/main/payload.lua",
+  "sha256": "d8b307bcb6408758029743f7dd784393b1b25a9ebebeec2a38d398a370167ec0",
+  "type": "lua"
 }
