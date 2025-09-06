@@ -1,5 +1,5 @@
 {
-  "payload_url": "https://raw.githubusercontent.com/kiyo000/injector-online-lib/refs/heads/main/payload.lua",
-  "sha256": "d8b307bcb6408758029743f7dd784393b1b25a9ebebeec2a38d398a370167ec0",
+  "payload_url": "https://raw.githubusercontent.com/kiyo000/injector-online-lib/refs/heads/main/offset.lua",
+  "sha256": "b30ec1f9cfacfe06f6fd6e8ca730f6fa8a1c5dc96b41b927e2144d25eecd3107",
   "type": "lua"
 }
