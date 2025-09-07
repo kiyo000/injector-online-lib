@@ -12,14 +12,6 @@ offsets = {
     {lib = "libanogs.so", offset = 0x2A5634, hex = "h000080D2C0035FD6"},
     {lib = "libanogs.so", offset = 0x3C5318, hex = "h000080D2C0035FD6"}
   },
-  hold_report = {
-    {lib = "libunity.so", offset = 0x1CF808, hex = "h000080D2C0035FD6"},
-    {lib = "libunity.so", offset = 0x1F7BA0, hex = "h000080D2C0035FD6"},
-    {lib = "libunity.so", offset = 0x2064B4, hex = "h000080D2C0035FD6"},
-    {lib = "libunity.so", offset = 0x208878, hex = "h000080D2C0035FD6"},
-    {lib = "libunity.so", offset = 0x2429C0, hex = "h000080D2C0035FD6"},
-    {lib = "libunity.so", offset = 0x264688, hex = "h000080D2C0035FD6"}
-  },
   fps_booster = {
     {lib = "libunity.so", offset = 0x8830880, hex = "h200080D2C0035FD6"},
     {lib = "libunity.so", offset = 0x88308fc, hex = "h200080D2C0035FD6"},
