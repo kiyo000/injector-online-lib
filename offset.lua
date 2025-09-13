@@ -62,6 +62,9 @@ offsets = {
   no_wingsuit = {
     {lib = "libunity.so", offset = 0x9BBA1B4, hex = "h00 00 80 D2 C0 03 5F D6"}
   },
+  fast_loot = {
+    {lib = "libunity.so", offset = 0x2902694, hex = "h00 00 80 D2 C0 03 5F D6"}
+  },
   br_tags = {
     {lib = "libunity.so", offset = 0x56b67dc, hex = "h200080D2C0035FD6"}
   },
