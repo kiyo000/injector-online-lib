@@ -95,6 +95,5 @@ offsets = {
   speed = {lib = "libunity.so", offsets = {0x908A95C, 0x908A688}, base_hex = "h40 00 00 1C C0 03 5F D6"},
   slide = {lib = "libunity.so", offset = 0x9103DD4, base_hex = "h40 00 00 1C C0 03 5F D6"},
   snowboard = {lib = "libunity.so", offsets = {0x90E5ABC, 0x90E3B18, 0x90E3E14, 0x90E5B0C, 0x908A5C8, 0x90E5B5C, 0x90E5BBC, 0x90E5C0C, 0x90E4040, 0x90E3CD8}, base_hex = "h40 00 00 1C C0 03 5F D6"},
-  ipadview = {lib = "libunity.so", offsets = {0x8734360}, base_hex = "hC0 03 5F D6 00 00 7A 44"},
   aimbot = {lib = "libunity.so", offsets = {0xA2B2AB8, 0x875B044}, base_hex = "h40 00 00 1C C0 03 5F D6"}
 }
