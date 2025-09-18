@@ -86,7 +86,6 @@ offsets = {
   no_flashbang = {
     {lib = "libunity.so", offset = 0x91EEE14, hex = "h00 2C 40 BC C0 03 5F D6"}
   },
-  -- Adjustable features (these use dynamic hex, so keep as is, but offsets here)
   jump = {lib = "libunity.so", offset = 0x654AEF0, base_hex = "h40 00 00 1C C0 03 5F D6"},
   speed = {lib = "libunity.so", offsets = {0x908A95C, 0x908A688}, base_hex = "h40 00 00 1C C0 03 5F D6"},
   slide = {lib = "libunity.so", offset = 0x9103DD4, base_hex = "h40 00 00 1C C0 03 5F D6"},
