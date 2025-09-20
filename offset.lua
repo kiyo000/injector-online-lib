@@ -3,6 +3,7 @@ offsets = {
     {lib = "libanogs.so", offset = 0x209d78, hex = "h000080D2C0035FD6"},
     {lib = "libanogs.so", offset = 0x11CC88, hex = "h000080D2C0035FD6"},
     {lib = "libanogs.so", offset = 0x11A868, hex = "h000080D2C0035FD6"},
+    {lib = "libanogs.so", offset = 0x3EE0AC, hex = "hFFFFFF17"},
     {lib = "libanogs.so", offset = 0x1B009C, hex = "h0D000014"},
     {lib = "libanogs.so", offset = 0x1B0108, hex = "h0D000014"}
   },
