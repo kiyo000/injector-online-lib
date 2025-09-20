@@ -1,11 +1,18 @@
 offsets = {
   garena_logo_bypass = {
-    {lib = "libanogs.so", offset = 0x209d78, hex = "h000080D2C0035FD6"},
+    {lib = "libanogs.so", offset = 0x10B87C, hex = "h000080D2C0035FD6"},
     {lib = "libanogs.so", offset = 0x11CC88, hex = "h000080D2C0035FD6"},
-    {lib = "libanogs.so", offset = 0x11A868, hex = "h000080D2C0035FD6"},
-    {lib = "libanogs.so", offset = 0x3EE0AC, hex = "hFFFFFF17"},
-    {lib = "libanogs.so", offset = 0x1B009C, hex = "h0D000014"},
-    {lib = "libanogs.so", offset = 0x1B0108, hex = "h0D000014"}
+    {lib = "libanogs.so", offset = 0x14B3E0, hex = "h000080D2C0035FD6"},
+    {lib = "libanogs.so", offset = 0x1D3E98, hex = "h000080D2C0035FD6"},
+    {lib = "libanogs.so", offset = 0x1D3BB8, hex = "h000080D2C0035FD6"},
+    {lib = "libanogs.so", offset = 0x204474, hex = "h000080D2C0035FD6"},
+    {lib = "libanogs.so", offset = 0x258B60, hex = "h000080D2C0035FD6"},
+    {lib = "libanogs.so", offset = 0x264688, hex = "h000080D2C0035FD6"},
+    {lib = "libanogs.so", offset = 0x2657C8, hex = "h000080D2C0035FD6"},
+    {lib = "libanogs.so", offset = 0x265A40, hex = "h000080D2C0035FD6"},
+    {lib = "libanogs.so", offset = 0x458794, hex = "h000080D2C0035FD6"},
+    {lib = "libanogs.so", offset = 0x1B0108, hex = "h06000014"},
+    {lib = "libanogs.so", offset = 0x1B009C, hex = "h0D000014"}
   },
   fps_booster = {
     {lib = "libunity.so", offset = 0x8830880, hex = "h200080D2C0035FD6"},
