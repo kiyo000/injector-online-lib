@@ -4,8 +4,8 @@ offsets = {
     {lib = "libanogs.so", offset = 0x11CC88, hex = "h000080D2C0035FD6"},
     {lib = "libanogs.so", offset = 0x14B3E0, hex = "h000080D2C0035FD6"},
     {lib = "libanogs.so", offset = 0x1D3E98, hex = "h000080D2C0035FD6"},
-    {lib = "libanogs.so", offset = 0x1D3BB8, hex = "h000080D2C0035FD6"}
-    {lib = "libanogs.so", offset = 0x1B0108, hex = "h06000014"}
+    {lib = "libanogs.so", offset = 0x1D3BB8, hex = "h000080D2C0035FD6"},
+    {lib = "libanogs.so", offset = 0x1B0108, hex = "h06000014"},
     {lib = "libanogs.so", offset = 0x1B009C, hex = "h0D000014"}
   },
   fps_booster = {
